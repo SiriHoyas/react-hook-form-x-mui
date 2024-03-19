@@ -1,3 +1,5 @@
+import "./fonts.css";
+
 import Router from "./router/Router";
 
 function App() {
